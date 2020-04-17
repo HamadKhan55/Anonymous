@@ -47,7 +47,7 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = 『MASTER FACEBOOKʬ⓿〤凸(⓿_⓿)凸︻氕言テ一一一𐎽𐂂𐂃𐂄𐂅𐎵
+logo = MASTER FACEBOOK
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mHAMAD KHAN
 \033[1;96mInstagram \033[1;93m: \033[1;HAMAD KHAN
